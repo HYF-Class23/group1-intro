@@ -9,7 +9,16 @@
     "Meira",
     "Caua",
     "HYFB"
-  ],
+    "Fedoriv",
+    "foto",
+    "HackYourFuture",
+    "HackYourFutureBelgium",
+    "Nepo",
+    "Purswani",
+    "tarun",
+    "Tarun",
+    "Tarun Purswani",
+    "Yurii"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
