@@ -2,7 +2,7 @@
 
 ---
 
-## Fedocriv Yurii
+## Fedoriv Yurii
 
 ---
 
