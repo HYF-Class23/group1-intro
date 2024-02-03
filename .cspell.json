@@ -1,14 +1,15 @@
 {
   "language": "en",
   "words": [
-    "HackYourFutureBelgium",
+    "Almeida",
+    "Caua",
     "HackYourFuture",
+    "HackYourFutureBelgium",
+    "HYFB",
+    "Meira",
     "Nepo",
     "Polyanna",
-    "Almeida",
-    "Meira",
-    "Caua",
-    "HYFB"
+    "Yurii"
   ],
   "ignorePaths": [
     "node_modules/**",
