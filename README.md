@@ -7,3 +7,5 @@ This is our first group project!!!
 -[Yurii](./members/yurii.md)
 
 -[Tarun](./members/tarunpurswani.md)
+
+-[Kevin](./members/kevin.md)
