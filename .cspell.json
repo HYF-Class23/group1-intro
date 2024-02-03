@@ -1,7 +1,20 @@
 {
   "language": "en",
   "words": [
-    "Fedoriv",
+ "Almeida",
+    "Caua",
+    "HackYourFuture",
+    "HackYourFutureBelgium",
+    "HYFB",
+    "Meira",
+    "Nepo",
+    "Polyanna",
+    "Yurii"],
+  "Almeida",
+  "Meira",
+    "Caua",
+    "HYFB",
+ "Fedoriv",
     "foto",
     "HackYourFuture",
     "HackYourFutureBelgium",
@@ -10,8 +23,10 @@
     "tarun",
     "Tarun",
     "Tarun Purswani",
-    "Yurii"
+ "Yurii"
   ],
+ "Yurii"],
+ main
   "ignorePaths": [
     "node_modules/**",
     "package.json",
