@@ -1,14 +1,16 @@
 {
   "language": "en",
   "words": [
-    "HackYourFutureBelgium",
+    "Fedoriv",
+    "foto",
     "HackYourFuture",
+    "HackYourFutureBelgium",
     "Nepo",
-    "Tarun Purswani",
-    "Tarun",
     "Purswani",
     "tarun",
-    "foto"
+    "Tarun",
+    "Tarun Purswani",
+    "Yurii"
   ],
   "ignorePaths": [
     "node_modules/**",
