@@ -9,12 +9,11 @@
     "Meira",
     "Nepo",
     "Polyanna",
-    "Yurii"],
-  "Almeida",
-  "Meira",
+    "Almeida",
+    "Meira",
     "Caua",
     "HYFB",
- "Fedoriv",
+    "Fedoriv",
     "foto",
     "HackYourFuture",
     "HackYourFutureBelgium",
@@ -23,9 +22,7 @@
     "tarun",
     "Tarun",
     "Tarun Purswani",
- "Yurii"
-  ],
- "Yurii"],
+    "Yurii"],
  main
   "ignorePaths": [
     "node_modules/**",
