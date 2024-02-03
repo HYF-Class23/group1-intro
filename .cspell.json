@@ -1,12 +1,17 @@
 {
   "language": "en",
   "words": [
-    "HackYourFutureBelgium",
+    "Almeida",
+    "Caua",
     "HackYourFuture",
+    "HackYourFutureBelgium",
+    "HYFB",
+    "Meira",
     "Nepo",
     "Polyanna",
-    "Almeida",
-    "Meira",
+    "Yurii"],
+  "Almeida",
+  "Meira",
     "Caua",
     "HYFB",
     "Fedoriv",
@@ -19,6 +24,7 @@
     "Tarun",
     "Tarun Purswani",
     "Yurii"],
+
   "ignorePaths": [
     "node_modules/**",
     "package.json",
