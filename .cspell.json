@@ -1,6 +1,14 @@
 {
   "language": "en",
   "words": [
+    "HackYourFutureBelgium",
+    "HackYourFuture",
+    "Nepo",
+    "Polyanna",
+    "Almeida",
+    "Meira",
+    "Caua",
+    "HYFB",
     "Fedoriv",
     "foto",
     "HackYourFuture",
@@ -10,8 +18,7 @@
     "tarun",
     "Tarun",
     "Tarun Purswani",
-    "Yurii"
-  ],
+    "Yurii"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
