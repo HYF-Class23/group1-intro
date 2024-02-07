@@ -19,7 +19,7 @@ interesting. Check below:
 I left many things behind when I left my country but one of the most important
 ones, was my family.
 
-![family](./family.jpg)
+![family](./img/family.jpg)
 
 ---
 
