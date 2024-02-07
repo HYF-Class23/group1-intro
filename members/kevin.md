@@ -26,12 +26,12 @@ ones, was my family.
 In belgium being polyglot is quite a thing. So here is a breakdown of my
 languages skills:
 
-│Language │Level       │  
-│---------│------------│  
-│English  │Advanced    │  
-│Spanish  │Advanced    │  
-│French   │Beginner    │  
-│Dutch    │Intermediate│
+| Language | Level        |
+|----------|--------------|
+| English  | Advanced     |
+| Spanish  | Advanced     |
+| French   | Beginner     |
+| Dutch    | Intermediate |
 
 ---
 
