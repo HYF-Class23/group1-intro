@@ -1,6 +1,8 @@
 # Kevin at a glance
 
-## Hi, I'm Kevin Osegueda and I'm 28 years old. I live in Belgium since a year ago. I come from Middle-America from a beautiful country called Nicaragua
+## Hi, I'm Kevin Osegueda and I'm 28 years old. I live in Belgium since a year ago
+
+## I come from Middle-America from a beautiful country called Nicaragua
 
 ---
 
@@ -17,7 +19,7 @@ interesting. Check below:
 I left many things behind when I left my country but one of the most important
 ones, was my family.
 
-![family](family.jpg)
+![family](./family.jpg)
 
 ---
 

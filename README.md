@@ -2,10 +2,10 @@
 
 This is our first group project!!!
 
--[Polyanna](./members/polyanna.md)
+- [Polyanna](./members/polyanna.md)
 
--[Yurii](./members/yurii.md)
+- [Yurii](./members/yurii.md)
 
--[Tarun](./members/tarunpurswani.md)
+- [Tarun](./members/tarun.md)
 
--[Kevin](./members/kevin.md)
+- [Kevin](./members/kevin.md)
